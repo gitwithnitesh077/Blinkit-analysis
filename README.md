@@ -34,7 +34,7 @@ The objective is to convert raw data into a clean, structured, and interactive r
 ## 🔢 DAX Measures
 Key measures created in this project:
 
-```DAX
+DAX
 Total Sales = 
 SUM(Sales[Sales Amount])
 
